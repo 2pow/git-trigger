@@ -22,3 +22,4 @@ rsync -a --progress /home/rabin/Desktop/ /run/media/rabin/Linux\ Backup/Desktop
 #date
 
 echo "Last Backup made on";date
+echo "Checking remote fetch..."
